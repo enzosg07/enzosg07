@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Football and technonlogy passion
+sports passion and likes food
 
 ### More Information
 
-Living proof that Sportsmen are good programmers...
+13year old and likes basketball
 
 ### Contact me
 
-[ben.stallard@challoners.org](mailto:ben.stallard@challoners.org)
+[enzo.schaeffergorrie@challoners.org](mailto:enzo.schaeffergorrie@challoners.org)
